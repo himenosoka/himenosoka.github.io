@@ -1,0 +1,32 @@
+@charset "utf-8";
+body{
+    font-size: 20px;
+    font-family: serif;
+    background-color: #f0f8ff;
+}
+h1{
+    text-align: center;
+    background-color: #e6e6fa;
+    color: #4650b4;
+    font-size: 50px;
+    font-family: "Hiragino Kaku Gothic ProN";
+}
+h2{
+    color: #8da0b6;
+    font-size: 30px;
+    font-family: "Hiragino Kaku Gothic ProN";
+    line-height: 1em;
+    text-align: justify;
+}
+dt{
+    color: #20b2aa;
+}
+a:hover{
+    font-size: 30px;
+}
+a:link{
+    color: #4682b4;
+}
+a:visited{
+    color: #696969;
+}
